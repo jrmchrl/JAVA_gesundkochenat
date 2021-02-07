@@ -1,9 +1,10 @@
 PHP Deployment on Almighty
 
 
-0. Execute SQL DDL and insertintostatements
+0. Execute SQL DDL and DML 
 
 PHP
+Try out functions:
 1. Add recipe
 2. Remove recipe
 3. Update Recipe
@@ -17,5 +18,4 @@ PHP
 
 
 JAVA
-1. Execute Java code: inserting 1000 recipes, all ingredients in the randomcreator as well as their seasonality (amounts to each approximately 270 tuples) 
-and insert 1000 "has" tuples, which means in addition the amount and unit of each ingredient and its respective recipe is added. 
+1. Execute Java code in command window: inserting 1000 recipes, all ingredients in the randomcreator as well as their seasonality (amounts to each approximately 270 tuples)and insert 1000 "has" tuples, which means in addition the amount and unit of each ingredient and its respective recipe is added. 
