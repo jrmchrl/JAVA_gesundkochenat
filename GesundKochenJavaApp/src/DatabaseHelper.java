@@ -7,9 +7,9 @@ import java.util.Random;
 // The DatabaseHelper class encapsulates the communication with our database
 class DatabaseHelper {
     // Database connection info
-    private static final String DB_CONNECTION_URL = "jdbc:oracle:thin:@oracle-lab.cs.univie.ac.at:1521:lab";
-    private static final String USER = "a11916977";
-    private static final String PASS = "dbs20"; 
+    private static final String DB_CONNECTION_URL = "xxx";
+    private static final String USER = "xxx";
+    private static final String PASS = "xxx"; 
 
     // The name of the class loaded from the ojdbc14.jar driver file
     //private static final String CLASSNAME = "oracle.jdbc.driver.OracleDriver";
