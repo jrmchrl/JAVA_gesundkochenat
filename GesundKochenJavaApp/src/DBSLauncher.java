@@ -5,8 +5,8 @@ public class DBSLauncher {
 		DatabaseHelper dbHelper=new DatabaseHelper();
 
 		//Specify Inserts:
-		Integer Recipe = 1000; 
-		Integer Has = 1000;
+		Int recipe = 1000; 
+		Int has = 1000;
 
 		//Call Functions of dbHelper
 		dbHelper.insertIntoRecipe(Recipe);
